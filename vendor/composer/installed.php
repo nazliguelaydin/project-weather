@@ -3,7 +3,7 @@
         'name' => 'nazliguelaydin/project-weather',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '057824f3b008f48a9ade912141ec1909d16bdecd',
+        'reference' => 'df0fd3c65706987dea36ff2a7b1e1418d6d534f2',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'nazliguelaydin/project-weather' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '057824f3b008f48a9ade912141ec1909d16bdecd',
+            'reference' => 'df0fd3c65706987dea36ff2a7b1e1418d6d534f2',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
