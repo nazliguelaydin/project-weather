@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Nazliguelaydin\\ProjectWeather\\' => array($baseDir . '/src'),
+    'Hannalackner\\Weather\\' => array($vendorDir . '/hannalackner/weather/src'),
 );
