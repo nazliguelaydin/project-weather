@@ -1,0 +1,16 @@
+{
+    "name": "nazliguelaydin/project-weather",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Nazliguelaydin\\ProjectWeather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazligül Aydin",
+            "email": "naydin@schueler.hakzell.at"
+        }
+    ],
+    "require": {}
+}
